@@ -1,0 +1,41 @@
+{
+  "branch": "A_natural_shell_size",
+  "tier": "small",
+  "max_class": 2,
+  "tag": "3H_R_C1_k1",
+  "frame_index": 346,
+  "time_ps": 3460.0,
+  "formula": {
+    "n_HSO": 4,
+    "n_HHS": 15,
+    "n_H3O": 0
+  },
+  "picks": {
+    "HSO": [
+      447,
+      455,
+      463,
+      473
+    ],
+    "HHS": [
+      21,
+      18,
+      179,
+      224,
+      22,
+      316,
+      228,
+      14,
+      283,
+      403,
+      295,
+      335,
+      99,
+      382,
+      356
+    ],
+    "H3O": []
+  },
+  "n_atoms": 155,
+  "note": "Same medoid frame; only shell size changes"
+}
