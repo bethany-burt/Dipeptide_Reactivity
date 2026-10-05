@@ -1,0 +1,54 @@
+SOLVENT NETWORK ENSEMBLES — MD-only phase summary
+Branch A = chemistry / mechanism (natural motifs)
+Branch B = controlled energetics (matched classes)
+NEVER conflate A and B for reaction energies.
+============================================================
+
+NATURAL MOTIFS (Branch A)
+----------------------------------------
+3H_R_C1_k1                               pop=0.974 n= 488  HSO/HHS/H3O=7/38/2  t=3460.0
+3H_R_C2_k1                               pop=0.996 n= 499  HSO/HHS/H3O=7/38/2  t=1940.0
+3H_R_C3_k1                               pop=0.966 n= 484  HSO/HHS/H3O=6/39/3  t=5780.0
+3H_R_T1_k0                               pop=0.998 n= 500  HSO/HHS/H3O=8/36/3  t=4900.0
+3H_R_T2_k1                               pop=0.996 n= 499  HSO/HHS/H3O=7/40/3  t=520.0
+3H_R_T3_k0                               pop=0.998 n= 500  HSO/HHS/H3O=8/38/3  t=3900.0
+3H_R_T4_k0                               pop=0.998 n= 500  HSO/HHS/H3O=6/40/2  t=8220.0
+4H_R_4H_S_k1                             pop=0.962 n= 482  HSO/HHS/H3O=7/39/2  t=3820.0
+4H_R_4H_HSO_rich_k0                      pop=0.998 n= 500  HSO/HHS/H3O=8/37/4  t=2680.0
+3H_P_A2O_k0                              pop=0.998 n= 500  HSO/HHS/H3O=6/50/1  t=880.0
+4H_P_A3L_c001_k0                         pop=0.998 n= 500  HSO/HHS/H3O=8/47/2  t=5940.0
+4H_P_A3D_c001_k1                         pop=0.994 n= 498  HSO/HHS/H3O=8/47/1  t=6640.0
+
+SHARED CLASSES + MATCHED (Branch B)
+----------------------------------------
+3H selected classes: [{'n_HSO': 3, 'n_HHS': 19, 'n_H3O': 0, 'P_R': 0.006707578136149565, 'P_P': 0.01098901098901099, 'min_PR_PP': 0.006707578136149565, 'geom_mean': 0.008585432420548043, 'joint': True, 'is_candidate_ref': False}, {'n_HSO': 3, 'n_HHS': 18, 'n_H3O': 0, 'P_R': 0.018410161267304128, 'P_P': 0.004995004995004995, 'min_PR_PP': 0.004995004995004995, 'geom_mean': 0.009589517583749018, 'joint': True, 'is_candidate_ref': False}]
+4H selected classes: [{'n_HSO': 4, 'n_HHS': 18, 'n_H3O': 0, 'P_R': 0.014485514485514486, 'P_P': 0.011988011988011988, 'min_PR_PP': 0.011988011988011988, 'geom_mean': 0.013177728230042877, 'joint': True, 'is_candidate_ref': False}, {'n_HSO': 5, 'n_HHS': 16, 'n_H3O': 1, 'P_R': 0.012987012987012988, 'P_P': 0.004995004995004995, 'min_PR_PP': 0.004995004995004995, 'geom_mean': 0.008054203544753795, 'joint': True, 'is_candidate_ref': False}]
+3H_R_C1_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.012
+3H_R_C1_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.020
+3H_R_C2_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.010
+3H_R_C2_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.008
+3H_R_C3_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.002
+3H_R_C3_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.004
+3H_R_T1_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.010
+3H_R_T1_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.024
+3H_R_T2_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.006
+3H_R_T2_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.006
+3H_R_T3_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.004
+3H_R_T3_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.002
+3H_R_T4_HSO3_HHS19_H3O0                            Q=0  HSO/HHS/H3O=3/19/0  pop=0.012
+3H_R_T4_HSO3_HHS18_H3O0                            Q=0  HSO/HHS/H3O=3/18/0  pop=0.070
+4H_R_4H_S_HSO4_HHS18_H3O0                          Q=0  HSO/HHS/H3O=4/18/0  pop=0.024
+4H_R_4H_S_HSO5_HHS16_H3O1                          Q=0  HSO/HHS/H3O=5/16/1  pop=0.028
+4H_R_4H_HSO_rich_HSO4_HHS18_H3O0                   Q=0  HSO/HHS/H3O=4/18/0  pop=0.010
+4H_R_4H_HSO_rich_HSO5_HHS16_H3O1                   Q=0  HSO/HHS/H3O=5/16/1  pop=0.024
+3H_P_A2O_HSO3_HHS19_H3O0                           Q=0  HSO/HHS/H3O=3/19/0  pop=0.012
+3H_P_A2O_HSO3_HHS18_H3O0                           Q=0  HSO/HHS/H3O=3/18/0  pop=0.004
+4H_P_A3L_c001_HSO4_HHS18_H3O0                      Q=0  HSO/HHS/H3O=4/18/0  pop=0.014
+4H_P_A3L_c001_HSO5_HHS16_H3O1                      Q=0  HSO/HHS/H3O=5/16/1  pop=0.010
+4H_P_A3D_c001_HSO4_HHS18_H3O0                      Q=0  HSO/HHS/H3O=4/18/0  pop=0.002
+4H_P_A3D_c001_HSO5_HHS16_H3O1                      Q=0  HSO/HHS/H3O=5/16/1  pop=0.012
+
+Shell-size dumps under shell_size/natural and shell_size/matched
+(same medoid frame; A grows shell; B enlarges candidate pool for fixed class)
+
+Out of scope this phase: DFT+PCM decks, submits, Boltzmann ensembles.

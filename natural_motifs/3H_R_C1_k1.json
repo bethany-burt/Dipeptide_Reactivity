@@ -1,0 +1,81 @@
+{
+  "branch": "A_natural",
+  "tag": "3H_R_C1_k1",
+  "label": "C1",
+  "side": "R",
+  "series": "3H",
+  "cluster_id": 1,
+  "n_clusters_chosen": 2,
+  "source_n_frames": 488,
+  "source_population_fraction": 0.9740518962075848,
+  "frame_index": 346,
+  "time_ps": 3460.0,
+  "formula": {
+    "n_HSO": 7,
+    "n_HHS": 38,
+    "n_H3O": 2
+  },
+  "picks": {
+    "HSO": [
+      447,
+      455,
+      463,
+      473,
+      459,
+      483,
+      472
+    ],
+    "HHS": [
+      21,
+      18,
+      179,
+      224,
+      22,
+      316,
+      228,
+      14,
+      283,
+      403,
+      295,
+      335,
+      99,
+      382,
+      356,
+      5,
+      274,
+      82,
+      221,
+      37,
+      6,
+      111,
+      302,
+      337,
+      271,
+      372,
+      7,
+      378,
+      331,
+      260,
+      163,
+      303,
+      397,
+      276,
+      349,
+      164,
+      136,
+      165
+    ],
+    "H3O": [
+      557,
+      550
+    ]
+  },
+  "n_atoms": 342,
+  "xyz": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/products/dft_frame_selection/solvent_network_ensembles/natural_motifs/3H_R_C1_k1.xyz",
+  "run": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/reactants/3H_cis/001",
+  "cutoffs_nm": {
+    "HSO": 0.41500000000000004,
+    "HHS": 0.42500000000000004,
+    "H3O": 0.525
+  }
+}

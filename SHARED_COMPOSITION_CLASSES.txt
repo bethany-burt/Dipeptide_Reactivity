@@ -1,0 +1,24 @@
+SHARED COMPOSITION CLASSES (Branch B)
+Primary score: min(P_R, P_P); secondary: geometric mean
+Only jointly sampled net-neutral classes selected
+============================================================
+
+3H:
+  (3,19,0)  min=0.0067  geom=0.0086  P_R=0.0067  P_P=0.0110  ref=False
+  (3,18,0)  min=0.0050  geom=0.0096  P_R=0.0184  P_P=0.0050  ref=False
+  asymmetric (top):
+    (3,19,0)  P_R=0.0067  P_P=0.0110
+    (3,18,0)  P_R=0.0184  P_P=0.0050
+    (3,20,0)  P_R=0.0010  P_P=0.0120
+    (3,21,0)  P_R=0.0006  P_P=0.0120
+    (4,20,1)  P_R=0.0001  P_P=0.0270
+
+4H:
+  (4,18,0)  min=0.0120  geom=0.0132  P_R=0.0145  P_P=0.0120  ref=False
+  (5,16,1)  min=0.0050  geom=0.0081  P_R=0.0130  P_P=0.0050  ref=False
+  asymmetric (top):
+    (5,16,1)  P_R=0.0130  P_P=0.0050
+    (5,17,1)  P_R=0.0040  P_P=0.0175
+    (4,19,0)  P_R=0.0030  P_P=0.0285
+    (4,17,0)  P_R=0.0365  P_P=0.0025
+    (5,18,1)  P_R=0.0025  P_P=0.0255

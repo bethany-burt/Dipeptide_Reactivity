@@ -1,0 +1,67 @@
+{
+  "branch": "B_matched",
+  "tag": "4H_R_4H_HSO_rich_HSO5_HHS16_H3O1",
+  "tier_pool": "medium",
+  "label": "4H_HSO_rich",
+  "side": "R",
+  "series": "4H",
+  "target_class": {
+    "n_HSO": 5,
+    "n_HHS": 16,
+    "n_H3O": 1
+  },
+  "formula": {
+    "n_HSO": 5,
+    "n_HHS": 16,
+    "n_H3O": 1
+  },
+  "net_charge": 0,
+  "frame_index": 240,
+  "time_ps": 2400.0,
+  "source_n_frames": 12,
+  "source_population_fraction": 0.023952095808383235,
+  "native_formula_at_frame": {
+    "n_HSO": 6,
+    "n_HHS": 16,
+    "n_H3O": 1
+  },
+  "natural_cage_formula_at_frame": {
+    "n_HSO": 8,
+    "n_HHS": 35,
+    "n_H3O": 4
+  },
+  "edit_L1_native_to_target": 1,
+  "picks": {
+    "HSO": [
+      483,
+      450,
+      458,
+      494,
+      462
+    ],
+    "HHS": [
+      19,
+      140,
+      433,
+      201,
+      340,
+      134,
+      174,
+      15,
+      39,
+      55,
+      408,
+      215,
+      78,
+      224,
+      362,
+      200
+    ],
+    "H3O": [
+      513
+    ]
+  },
+  "n_atoms": 173,
+  "xyz": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/products/dft_frame_selection/solvent_network_ensembles/matched_classes/4H_R_4H_HSO_rich_HSO5_HHS16_H3O1.xyz",
+  "note": "Matched composition class"
+}

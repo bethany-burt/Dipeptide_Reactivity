@@ -1,0 +1,66 @@
+{
+  "branch": "B_matched",
+  "tag": "3H_P_A2O_HSO3_HHS19_H3O0_poolsmall",
+  "tier_pool": "small",
+  "label": "A2O",
+  "side": "P",
+  "series": "3H",
+  "target_class": {
+    "n_HSO": 3,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "formula": {
+    "n_HSO": 3,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "net_charge": 0,
+  "frame_index": 518,
+  "time_ps": 5180.0,
+  "source_n_frames": 6,
+  "source_population_fraction": 0.011976047904191617,
+  "native_formula_at_frame": {
+    "n_HSO": 3,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "natural_cage_formula_at_frame": {
+    "n_HSO": 6,
+    "n_HHS": 50,
+    "n_H3O": 1
+  },
+  "edit_L1_native_to_target": 0,
+  "picks": {
+    "HSO": [
+      489,
+      493,
+      464
+    ],
+    "HHS": [
+      339,
+      61,
+      340,
+      99,
+      178,
+      110,
+      422,
+      43,
+      198,
+      189,
+      347,
+      324,
+      73,
+      305,
+      353,
+      78,
+      420,
+      136,
+      184
+    ],
+    "H3O": []
+  },
+  "n_atoms": 177,
+  "xyz": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/products/dft_frame_selection/solvent_network_ensembles/matched_classes/3H_P_A2O_HSO3_HHS19_H3O0_poolsmall.xyz",
+  "note": "Fixed stoichiometry; tier=candidate pool size for filling class"
+}

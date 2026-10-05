@@ -1,0 +1,82 @@
+{
+  "branch": "A_natural",
+  "tag": "4H_R_4H_S_k1",
+  "label": "4H_S",
+  "side": "R",
+  "series": "4H",
+  "cluster_id": 1,
+  "n_clusters_chosen": 2,
+  "source_n_frames": 482,
+  "source_population_fraction": 0.9620758483033932,
+  "frame_index": 382,
+  "time_ps": 3820.0,
+  "formula": {
+    "n_HSO": 7,
+    "n_HHS": 39,
+    "n_H3O": 2
+  },
+  "picks": {
+    "HSO": [
+      450,
+      483,
+      478,
+      494,
+      458,
+      491,
+      447
+    ],
+    "HHS": [
+      149,
+      102,
+      271,
+      221,
+      290,
+      341,
+      288,
+      297,
+      240,
+      351,
+      78,
+      251,
+      106,
+      267,
+      361,
+      65,
+      145,
+      350,
+      270,
+      255,
+      312,
+      31,
+      4,
+      175,
+      342,
+      399,
+      220,
+      64,
+      433,
+      170,
+      208,
+      410,
+      343,
+      282,
+      248,
+      432,
+      329,
+      92,
+      238
+    ],
+    "H3O": [
+      529,
+      551
+    ]
+  },
+  "n_atoms": 350,
+  "xyz": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/products/dft_frame_selection/solvent_network_ensembles/natural_motifs/4H_R_4H_S_k1.xyz",
+  "run": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/reactants/4H_trans/006",
+  "cutoffs_nm": {
+    "HSO": 0.345,
+    "HHS": 0.41500000000000004,
+    "H3O": 0.555
+  }
+}

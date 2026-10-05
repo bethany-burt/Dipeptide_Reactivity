@@ -1,0 +1,66 @@
+{
+  "branch": "B_matched",
+  "tag": "3H_R_C2_HSO3_HHS19_H3O0",
+  "tier_pool": "medium",
+  "label": "C2",
+  "side": "R",
+  "series": "3H",
+  "target_class": {
+    "n_HSO": 3,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "formula": {
+    "n_HSO": 3,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "net_charge": 0,
+  "frame_index": 4,
+  "time_ps": 40.0,
+  "source_n_frames": 5,
+  "source_population_fraction": 0.00998003992015968,
+  "native_formula_at_frame": {
+    "n_HSO": 2,
+    "n_HHS": 19,
+    "n_H3O": 0
+  },
+  "natural_cage_formula_at_frame": {
+    "n_HSO": 7,
+    "n_HHS": 38,
+    "n_H3O": 1
+  },
+  "edit_L1_native_to_target": 1,
+  "picks": {
+    "HSO": [
+      446,
+      447,
+      490
+    ],
+    "HHS": [
+      68,
+      400,
+      76,
+      34,
+      29,
+      152,
+      345,
+      215,
+      336,
+      383,
+      19,
+      181,
+      31,
+      65,
+      193,
+      404,
+      359,
+      22,
+      18
+    ],
+    "H3O": []
+  },
+  "n_atoms": 177,
+  "xyz": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/products/dft_frame_selection/solvent_network_ensembles/matched_classes/3H_R_C2_HSO3_HHS19_H3O0.xyz",
+  "note": "Matched composition class"
+}

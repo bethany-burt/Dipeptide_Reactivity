@@ -1,0 +1,319 @@
+{
+  "label": "T4",
+  "side": "R",
+  "series": "3H",
+  "run": "/project/ls-heng/Bethany.Burt/Dipeptide_reactions/MD_trial/reactants/3H_trans/007",
+  "n_frames_sampled": 1001,
+  "stride": 1,
+  "cutoffs_nm": {
+    "HSO": 0.385,
+    "HHS": 0.42500000000000004,
+    "H3O": 0.375
+  },
+  "histogram": [
+    {
+      "n_HSO": 3,
+      "n_HHS": 16,
+      "n_H3O": 0,
+      "count": 143,
+      "fraction": 0.14285714285714285,
+      "neutral": true
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 17,
+      "n_H3O": 0,
+      "count": 139,
+      "fraction": 0.13886113886113885,
+      "neutral": true
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 15,
+      "n_H3O": 0,
+      "count": 104,
+      "fraction": 0.1038961038961039,
+      "neutral": true
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 15,
+      "n_H3O": 0,
+      "count": 99,
+      "fraction": 0.0989010989010989,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 14,
+      "n_H3O": 0,
+      "count": 82,
+      "fraction": 0.08191808191808192,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 18,
+      "n_H3O": 0,
+      "count": 63,
+      "fraction": 0.06293706293706294,
+      "neutral": true
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 16,
+      "n_H3O": 0,
+      "count": 62,
+      "fraction": 0.061938061938061936,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 18,
+      "n_H3O": 0,
+      "count": 42,
+      "fraction": 0.04195804195804196,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 14,
+      "n_H3O": 0,
+      "count": 37,
+      "fraction": 0.03696303696303696,
+      "neutral": true
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 19,
+      "n_H3O": 0,
+      "count": 27,
+      "fraction": 0.026973026973026972,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 17,
+      "n_H3O": 0,
+      "count": 25,
+      "fraction": 0.024975024975024976,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 13,
+      "n_H3O": 0,
+      "count": 24,
+      "fraction": 0.023976023976023976,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 17,
+      "n_H3O": 0,
+      "count": 21,
+      "fraction": 0.02097902097902098,
+      "neutral": false
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 17,
+      "n_H3O": 0,
+      "count": 18,
+      "fraction": 0.017982017982017984,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 19,
+      "n_H3O": 0,
+      "count": 17,
+      "fraction": 0.016983016983016984,
+      "neutral": true
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 18,
+      "n_H3O": 0,
+      "count": 14,
+      "fraction": 0.013986013986013986,
+      "neutral": false
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 16,
+      "n_H3O": 0,
+      "count": 9,
+      "fraction": 0.008991008991008992,
+      "neutral": false
+    },
+    {
+      "n_HSO": 5,
+      "n_HHS": 14,
+      "n_H3O": 0,
+      "count": 9,
+      "fraction": 0.008991008991008992,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 20,
+      "n_H3O": 0,
+      "count": 8,
+      "fraction": 0.007992007992007992,
+      "neutral": false
+    },
+    {
+      "n_HSO": 5,
+      "n_HHS": 16,
+      "n_H3O": 0,
+      "count": 8,
+      "fraction": 0.007992007992007992,
+      "neutral": false
+    },
+    {
+      "n_HSO": 5,
+      "n_HHS": 15,
+      "n_H3O": 0,
+      "count": 7,
+      "fraction": 0.006993006993006993,
+      "neutral": false
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 15,
+      "n_H3O": 0,
+      "count": 6,
+      "fraction": 0.005994005994005994,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 16,
+      "n_H3O": 0,
+      "count": 5,
+      "fraction": 0.004995004995004995,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 18,
+      "n_H3O": 0,
+      "count": 5,
+      "fraction": 0.004995004995004995,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 13,
+      "n_H3O": 0,
+      "count": 5,
+      "fraction": 0.004995004995004995,
+      "neutral": true
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 19,
+      "n_H3O": 0,
+      "count": 3,
+      "fraction": 0.002997002997002997,
+      "neutral": false
+    },
+    {
+      "n_HSO": 5,
+      "n_HHS": 13,
+      "n_H3O": 0,
+      "count": 3,
+      "fraction": 0.002997002997002997,
+      "neutral": false
+    },
+    {
+      "n_HSO": 5,
+      "n_HHS": 12,
+      "n_H3O": 0,
+      "count": 3,
+      "fraction": 0.002997002997002997,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 15,
+      "n_H3O": 0,
+      "count": 2,
+      "fraction": 0.001998001998001998,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 20,
+      "n_H3O": 0,
+      "count": 2,
+      "fraction": 0.001998001998001998,
+      "neutral": true
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 16,
+      "n_H3O": 1,
+      "count": 2,
+      "fraction": 0.001998001998001998,
+      "neutral": false
+    },
+    {
+      "n_HSO": 1,
+      "n_HHS": 21,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": false
+    },
+    {
+      "n_HSO": 2,
+      "n_HHS": 20,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 12,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": false
+    },
+    {
+      "n_HSO": 4,
+      "n_HHS": 13,
+      "n_H3O": 1,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": true
+    },
+    {
+      "n_HSO": 6,
+      "n_HHS": 13,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": false
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 12,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": true
+    },
+    {
+      "n_HSO": 3,
+      "n_HHS": 21,
+      "n_H3O": 0,
+      "count": 1,
+      "fraction": 0.000999000999000999,
+      "neutral": true
+    }
+  ]
+}
